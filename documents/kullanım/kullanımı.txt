@@ -1,0 +1,3 @@
+bu kısımda otonom sistemin nasıl kurulacağı nasıl başlatılacağı yer alacaktır
+
+... ekleme yapılacaktır ...
